@@ -188,7 +188,7 @@ class DatabaseManager:
 class BillApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Restaurant Billing System — Upgraded")
+        self.root.title("Restaurant Billing Management System")
         self.root.geometry("1200x700")
         self.db = DatabaseManager()
 
