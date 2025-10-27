@@ -32,6 +32,6 @@
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/chsuresh777/RestaurantBillingManagementSystem.git
-cd RestaurantBillingSystem
+cd RestaurantBillingManagementSystem
 
 
