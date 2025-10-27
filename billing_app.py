@@ -1,5 +1,5 @@
 """
-Restaurant Billing & Management System (Upgraded)
+Restaurant Billing & Management System
 - Single-file Tkinter GUI
 - OOP: Customer, Item, Bill
 - SQLite persistence (bills table)
