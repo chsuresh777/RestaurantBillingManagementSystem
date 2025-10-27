@@ -26,9 +26,6 @@
 
 ---
 
-## 📂 **Project Structure**
-
----
 
 ## 🖥️ **How to Run the Project**
 
