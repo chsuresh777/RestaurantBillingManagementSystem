@@ -1,0 +1,31 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg-info/
+.env
+venv/
+ENV/
+env/
+.venv/
+.idea/
+.vscode/
+*.sqlite3
+*.db
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+
+# ---- PDF / Invoice Exports ----
+*.pdf
+*.txt
+
+# ---- Logs ----
+*.log
+
+# ---- Tkinter temporary files ----
+*.tmp
